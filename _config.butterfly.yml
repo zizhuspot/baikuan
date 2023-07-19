@@ -498,8 +498,8 @@ twikoo:
 # https://giscus.app/
 giscus:
   repo: zizhuspot/baikuan
-  repo_id:
-  category_id:
+  repo_id: R_kgDOJ9ausw
+  category_id: DIC_kwDOJ9aus84CX_wB
   theme:
     light: light
     dark: dark
