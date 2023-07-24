@@ -1,20 +1,17 @@
-# Notion AI：2023 年最佳笔记应用
 ---
 title: Notion AI：2023 年最佳笔记应用
-
-description: ChatGPT无疑给我们带来了无限的便利，无论是生活上还是工作上，能帮我们智能处理一些事宜，但是本文将带你认识一款2023年度最佳笔记应用---Notion AI
-
 date: 2023-07-03 11:48:12
-
-cover: 
-![](https://files.mdnice.com/user/45886/3ff269bc-16a8-47df-9b8e-610f7108b4c9.png)
-
 categories:
-  - AI、人工智能
-
+  - AI
+  - 人工智能
 tags:
-  - Notion AI、ChatGPT、写作
+  - ChatGPT
+  - 写作
+  - Notion AI
+description: ChatGPT无疑给我们带来了无限的便利，无论是生活上还是工作上，能帮我们智能处理一些事宜，但是本文将带你认识一款2023年度最佳笔记应用---Notion AI
+cover: ![](https://files.mdnice.com/user/45886/3ff269bc-16a8-47df-9b8e-610f7108b4c9.png)
 ---
+
 ![](https://files.mdnice.com/user/45886/3ff269bc-16a8-47df-9b8e-610f7108b4c9.png)
 
 人工智能无处不在，Notion不想失去它的存在和力量，所以他们创造了Notion AI，一个革命性的工具，将人工智能与组织能力相结合，改变了我们利用知识的方式。
