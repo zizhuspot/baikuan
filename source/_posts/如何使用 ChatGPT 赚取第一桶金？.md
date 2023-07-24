@@ -1,19 +1,14 @@
-# 如何使用 ChatGPT 赚取第一桶金？
 ---
 title: 如何使用 ChatGPT 赚取第一桶金？
-
-description: 本文将展示三种实测过的方法，来阐述如何用ChatGPT在线赚钱
-
 date: 2023-07-07 09:12:44
-
-cover: 
-![](https://files.mdnice.com/user/45886/9987cc48-48fc-497e-83da-19c22d463c23.png)
-
 categories:
-  - AI、人工智能
-
+  - AI
+  - 人工智能
 tags:
-  - ChatGPT、网赚
+  - ChatGPT
+  - 网赚
+description: 本文将展示三种实测过的方法，来阐述如何用ChatGPT在线赚钱
+cover: ![](https://files.mdnice.com/user/45886/9987cc48-48fc-497e-83da-19c22d463c23.png)
 ---
 
 ![](https://files.mdnice.com/user/45886/1942cc98-b555-4deb-bb11-73356613b290.png)
