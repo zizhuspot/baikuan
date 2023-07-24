@@ -60,7 +60,7 @@ cover: ![](https://files.mdnice.com/user/45886/2963d27d-b280-441a-abd4-0d4bc5093
 - 第五步：现在进入开始菜单，搜索EasyDiffusion，并点击它。
 
 
-## 重要的部分
+## 需要注意的地方！
 由于这是一个免费的模型，它可能不会立即给出MidJourney的结果。
 
 你或许会难过，但让我告诉你，最好的AI艺术是由StableDiffusion创造的。而你也可以。由于它是免费的，你需要学习一点提示工程、负面提示等等。
