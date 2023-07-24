@@ -1,21 +1,15 @@
-# 如何在 Chrome 中创建您自己的 ChatGPT 扩展程序？
-
 ---
 title: 如何在 Chrome 中创建您自己的 ChatGPT 扩展程序？
-
-description: 本文将详细指导您如何利用代码，将ChatGPT集成到您自己的APP或者网站中，提高整个程序的生产力。
-
 date: 2023-07-07 12:23:55
-
-cover: 
-![](https://files.mdnice.com/user/45886/4aea154c-acd4-4ca1-aee5-b207d5c35435.png)
-
-
 categories:
-  - AI、人工智能
-
+  - AI
+  - 人工智能
 tags:
-  - ChatGPT、Chorme、教程
+  - ChatGPT
+  - Chrome
+  - 教程
+description: 本文将详细指导您如何利用代码，将ChatGPT集成到您自己的APP或者网站中，提高整个程序的生产力。
+cover:![](https://files.mdnice.com/user/45886/4aea154c-acd4-4ca1-aee5-b207d5c35435.png)
 ---
 
 ChatGPT 所生成的卓越内容质量确实让我们震惊，让我们惊叹不已。它很快就成为了不仅是我，而且还有许多其他人的首选生产力工具。
