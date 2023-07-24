@@ -9,7 +9,7 @@ tags:
   - MidJourney
   - AI绘画
 description: MidJourney相信很多人都用过了，那么这篇文章将一步一步教你如何用MidJourney改变照片。
-cover: ![](https://files.mdnice.com/user/45886/3577ca82-122a-41c8-962a-02892affdc46.png)
+cover: https://files.mdnice.com/user/45886/3577ca82-122a-41c8-962a-02892affdc46.png
 ---
 
 Midjourney是一个人工智能程序，可以根据文字描述和Discord上的提示创建文本到图像。它的最新版本还能够将你上传的任何图像改变成你想要的样子。

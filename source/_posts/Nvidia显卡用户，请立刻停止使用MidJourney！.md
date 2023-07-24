@@ -10,7 +10,7 @@ tags:
   - Nvdia
   - AI绘画
 description: MidJourney的出现无疑是AI绘画发展的重要里程碑，但由于用户本身就为显卡付费了，难以维持AI绘画的付费使用模式，显卡付费用户当然可以有更好的选择
-cover: ![](https://files.mdnice.com/user/45886/2963d27d-b280-441a-abd4-0d4bc509347c.png)
+cover: https://files.mdnice.com/user/45886/2963d27d-b280-441a-abd4-0d4bc509347c.png
 ---
 
 近几个月来，AI在互联网上掀起了一阵风暴。来自不同背景的技术人员已经将它用于许多不同的用途。
@@ -28,7 +28,7 @@ cover: ![](https://files.mdnice.com/user/45886/2963d27d-b280-441a-abd4-0d4bc5093
 
 因此，在笔者看来，那些拥有良好NVIDIA GPU的人根本不需要MidJourney。您已经为该显卡付费，不要在服务器上花费更多。您可以在本地系统上无限制地享受所有乐趣。但是如果您没有这样的GPU，则此解决方案也适用于CPU，虽然速度较慢，但仍然可以完成任务。
 
-***它是什么？***
+## 它是什么？
 
 我们在stabilit.ai的朋友，其口号是：AI by the people for the people，开发了一个免费的开放式AI模型，你可以下载到本地并在你的PC上试用。
 
@@ -42,7 +42,8 @@ cover: ![](https://files.mdnice.com/user/45886/2963d27d-b280-441a-abd4-0d4bc5093
 
 所以你所有的朋友都会问你是如何做到的。欢迎你的到来。
 
-## **如何设置？**
+## 如何设置？
+
 如果你是一个经验丰富的技术人员，对github、编程和一般的安装有一定的了解，那么如果你愿意，你可以用默认的方式来做。但这可能有点令人头疼，或者你可能最终出现问题。
 
 但我们会用简单的方法来做。为此，有两种方法可以做到，EasyDiffusion和Invoke AI。两者都有其优点和缺点，但主要是它们有相同的目的，使人们更容易。
@@ -50,17 +51,14 @@ cover: ![](https://files.mdnice.com/user/45886/2963d27d-b280-441a-abd4-0d4bc5093
 我们将使用**EasyDiffusion**。
 
 - 第一步：进入这个链接[EasyDiffusion](https://stable-diffusion-ui.github.io/docs/installation/)。
-
 - 第二步：为你想要的平台下载它，比方说Windows。该文件将是大约1.5G字节。
-
 - 第三步：打开下载的文件，名为easy diffusion.exe。
-
 - 第四步：它将开始下载所需的文件。我建议你启动它，如果你有一个普通的网络连接，找点别的事情做。你可以等待，看看需要多少时间并采取相应行动。
-
 - 第五步：现在进入开始菜单，搜索EasyDiffusion，并点击它。
 
 
 ## 需要注意的地方！
+
 由于这是一个免费的模型，它可能不会立即给出MidJourney的结果。
 
 你或许会难过，但让我告诉你，最好的AI艺术是由StableDiffusion创造的。而你也可以。由于它是免费的，你需要学习一点提示工程、负面提示等等。

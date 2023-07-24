@@ -9,7 +9,7 @@ tags:
   - 网赚
   - SEO策略
 description: 一步一步教你使用ChatGPT搭建PBN，并教你如何通过PBN赚取每月$50,000美元的利润。
-cover: ![](https://files.mdnice.com/user/45886/06526188-1de0-48a8-b312-0a2d3a7acb2e.png)
+cover: https://files.mdnice.com/user/45886/06526188-1de0-48a8-b312-0a2d3a7acb2e.png
 ---
 
 看到这个标题，相信大家都忍不住点进来，事实上，现在我们要讨论的数字营销领域确实是最有效的赚钱方法之一。

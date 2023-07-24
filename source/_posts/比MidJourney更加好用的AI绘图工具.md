@@ -1,5 +1,5 @@
 ---
-title: 比MidJourney更加好用的AI绘图工具！！！
+title: 比MidJourney更加好用的AI绘图工具
 date: 2023-07-05 17:29:08
 categories:
   - AI
@@ -19,33 +19,36 @@ cover: https://files.mdnice.com/user/45886/42d827e9-ba93-4670-9a5c-eb39871cc695.
 
 它提供了许多引擎来生成特殊风格的图像，而没有太多的麻烦。下面是我用这个AI生成的一些图片。
 
-## 1.*正在书写的机器人*
+## 正在书写的机器人
 
 ![](https://files.mdnice.com/user/45886/667f5ddf-ea66-4c35-868a-285a5d88bd95.png)
 
-## 2.*正在用吉他演奏的男人*
+## 正在用吉他演奏的男人
 
 ![](https://files.mdnice.com/user/45886/791f1d97-6de2-4041-a7d7-703710b9b9d5.png)
 
-## 3.*一个悲伤的女孩*
+## 一个悲伤的女孩
 
 ![](https://files.mdnice.com/user/45886/2ea410a0-0781-4e07-8eac-62c8a7c7658c.png)
 
-## 4.*小说作家的桌子*
+## 小说作家的桌子
 
 ![](https://files.mdnice.com/user/45886/0c5dca72-868b-4301-8c2d-912c02cbee28.png)
 
-## 5.*飞行员驴*
+## 飞行员驴
+
 ![](https://files.mdnice.com/user/45886/916e1d6d-c70b-424d-a686-98f6cf8c9f4f.png)
 
-## 5.*使用Macbook的牛*
+## 使用Macbook的牛
 
 ![](https://files.mdnice.com/user/45886/9b379d43-91ee-4459-9b23-b85339e7d236.png)
 
-## 6.*火星上的房子*
+## 火星上的房子
+
 ![](https://files.mdnice.com/user/45886/9d0b0639-9443-4087-86dc-b983a81c4baf.png)
 
-## 7.*机器女性*
+## 机器女性
+
 ![](https://files.mdnice.com/user/45886/edbb0cd5-a6b9-4ad6-b663-4dcb1a02dd4e.png)
 
 AI非常擅长概念艺术。
@@ -57,6 +60,7 @@ AI非常擅长概念艺术。
 所以你可以把你的电子邮件，在24小时内得到回应。并开始享受人工智能的乐趣。
 
 ## Leonardo AI的特点
+
 Leonardo团队提供了大量的功能，定期更新，目前，这些功能有：
 
 1. 免费：每天150张图片
