@@ -1,19 +1,15 @@
-# Pandas AI——数据分析的未来
 ---
 title: Pandas AI——数据分析的未来
-
-description: 如果你热爱或者工作需要用到数据分析，那么Pandas AI将成为你最好的良师益友。
-
 date: 2023-07-06 09:41:31
-
-cover: 
-![](https://files.mdnice.com/user/45886/39b33dd2-2aa3-4b47-a17d-c4c8a21887aa.png)
-
 categories:
-  - AI、人工智能
-
+  - AI
+  - 人工智能
 tags:
-  - Pandas AI、ChatGPT、数据分析
+  - ChatGPT
+  - Pandas AI
+  - 数据分析
+description: 如果你热爱或者工作需要用到数据分析，那么Pandas AI将成为你最好的良师益友。
+cover: ![](https://files.mdnice.com/user/45886/39b33dd2-2aa3-4b47-a17d-c4c8a21887aa.png)
 ---
 
 想象一下能够像你最好的朋友一样与你的数据交谈。这就是 Pandas AI 所做的！这个 Python 库具有生成人工智能功能，可以将您的数据框变成对话者。不再需要无休止地盯着行和列。
