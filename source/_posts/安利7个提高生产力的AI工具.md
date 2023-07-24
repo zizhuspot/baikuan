@@ -1,0 +1,96 @@
+# 安利7个提高生产力的AI工具
+---
+title: 安利7个提高生产力的AI工具
+
+description: 本文将介绍7个AI工具来提升工作生活中的生产力。
+
+date: 2023-07-06 12:41:31
+
+cover: 
+![](https://files.mdnice.com/user/45886/9fd8cf79-4209-439f-9f8e-ddff990ef4b3.png)
+
+categories:
+  - AI、人工智能
+
+tags:
+  - ChatGPT、求职AI、工作AI、生产力
+---
+## 引言
+
+人工智能 (AI) 迅速改变了我们的工作和生活方式。借助人工智能工具，我们可以自动执行许多日常且耗时的任务，从而腾出更多时间进行创造性和战略性思考。
+
+在本博客中，我们将探索7个AI工具，它们可以帮助提高您的工作效率并将您的工作提升到一个新的水平。无论您是自由职业者、小企业主还是企业高管，这些工具都可以帮助您简化工作流程、提高效率并提高整体生产力。
+
+### [Excelformulabot](https://formulabot.com/)
+
+借助Excelformulabot AI，只需几秒钟即可将文本指令转换为 Excel 公式。包括公式生成器和公式解释器，能够自动将公式插入选定的单元格。其中一些功能是：
+
+- **生成公式**
+- **解释公式**
+- **Excel VBA 生成器**
+- **Excel 插件**
+- **Excel 公式语言翻译器**
+- **Google Sheet 的附加组件**
+- **Excel 基本任务讲解**
+
+![](https://files.mdnice.com/user/45886/de867d34-9022-49bd-b2f0-1c089a53193d.png)
+
+### [Coverletter-ai](https://coverletter-ai.com/)
+
+利用Coverletter ai创建多个版本的求职信，直到找到一个令您满意的版本，然后对其进行编辑并生成其他版本，直到您对最终结果感到满意。您在创建求职信时提供的信息（例如职位描述和公司名称）将保密。
+
+填写公司名称、职位描述、写作风格、技能等信息，让此应用程序为您制作精美的求职信。
+
+![](https://files.mdnice.com/user/45886/d7525210-bfd7-406f-aea2-ec0a0d63c56d.png)
+
+### [Brandfort](https://brandfort.co/)
+
+在 Facebook 和 Instagram 的大页面上审核评通常是耗时且麻烦的。利用Brandfort 通过在 Facebook 和 Instagram 上隐藏您不想要的评论，在社交媒体上自动审核和保护您的品牌。
+
+Brandfort通过隐藏以下内容来保护您：
+
+- 投诉内容
+- 消极内容
+- 垃圾内容
+- 政治内容
+- 亵渎污蔑内容
+- 进攻性内容
+
+![](https://files.mdnice.com/user/45886/6e4624d1-2b27-401c-93db-84fd3623fa72.png)
+
+### [Browse.ai](https://www.browse.ai/)
+
+Browse AI 是唯一一款智能 Web 自动化软件，可让您在 18 亿个网站上可靠地记录和运行自动化。
+
+某些网站（例如 Twitter 或 LinkedIn）尝试阻止任何自动浏览活动。 Browse.ai 拥有适当的系统（例如旋转地理定位住宅代理和自动验证码解决）来避免这些拦截器，但它们的成本很高，因此这些为高级站点，而高级站点每次运行任务需要额外花费 10 个积分。一些例子是：
+
+- Aeroplan.com
+- Instagram.com
+- LinkedIn.com
+- Twitter.com
+
+![](https://files.mdnice.com/user/45886/44b49751-8c92-4b48-a6cb-ebd06bf921d4.png)
+
+### [Eric.ai](https://www.eric.ai/)
+
+Eric.ai 是一款会议人工智能，旨在让您的会议从头到尾变得更好、更快。它是唯一可以集成到 Microsoft Teams 会议应用程序中的智能会议助手。
+
+Eric.ai能够轻松设置、记录和促进您的会议，同时建立有用的知识库。利用人工智能进行会议，降低会议成本。
+
+![](https://files.mdnice.com/user/45886/1380074c-7385-4580-af00-e7332eb2450e.png)
+
+### [Copy.ai](http://www.copy.ai/?via=ibrahim-zahir)
+
+Copy.ai是一款利用人工智能（AI）帮助用户生成书面内容的工具。它允许用户输入提示或主题，然后该工具使用机器学习算法根据该输入生成各种书面内容选项。生成的内容旨在用作进一步编辑和细化的灵感。
+
+![](https://files.mdnice.com/user/45886/d513d2e2-df7a-4a9f-b43c-1f5da1ceeb24.png)
+
+### [ChatGPT](https://chat.openai.com/)
+
+ChatGPT 是 OpenAI 开发的强大语言模型，可以协助完成广泛的任务，包括自然语言处理、文本生成和情感分析。随着人工智能能力的不断发展，企业和企业家正在寻找新的方法来利用该技术来提高生产力。
+
+![](https://files.mdnice.com/user/45886/e1c132f4-8144-4f55-bd13-223c38b8132d.png)
+
+## 总结
+
+总之，在生产力方面，人工智能驱动的工具是游戏规则的改变者。借助上述工具，您可以自动执行日常任务、简化工作流程并专注于高价值活动。无论您是想提高效率、节省时间还是只是简化工作流程，这些人工智能驱动的工具都是一个很好的起点。因此，请仔细研究上述工具，并利用她们开始提高您的生产力！
