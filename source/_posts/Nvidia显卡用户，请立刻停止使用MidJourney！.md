@@ -1,19 +1,16 @@
-# Nvidia显卡用户，请立刻停止使用MidJourney！
 ---
 title: Nvidia显卡用户，请立刻停止使用MidJourney！
-
-description: MidJourney的出现无疑是AI绘画发展的重要里程碑，但由于用户本身就为显卡付费了，难以维持AI绘画的付费使用模式，显卡付费用户当然可以有更好的选择
-
 date: 2023-07-05 17:26:36
-
-cover: 
-![](https://files.mdnice.com/user/45886/2963d27d-b280-441a-abd4-0d4bc509347c.png)
-
 categories:
-  - AI、人工智能
-
+  - AI
+  - 人工智能
 tags:
-  - MidJourney、ChatGPT、Nvdia、AI绘画
+  - ChatGPT
+  - MidJourney
+  - Nvdia
+  - AI绘画
+description: MidJourney的出现无疑是AI绘画发展的重要里程碑，但由于用户本身就为显卡付费了，难以维持AI绘画的付费使用模式，显卡付费用户当然可以有更好的选择
+cover: ![](https://files.mdnice.com/user/45886/2963d27d-b280-441a-abd4-0d4bc509347c.png)
 ---
 
 近几个月来，AI在互联网上掀起了一阵风暴。来自不同背景的技术人员已经将它用于许多不同的用途。
