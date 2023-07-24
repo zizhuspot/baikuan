@@ -1,19 +1,15 @@
 # AI革命-ChatGPT：AI智能写作终将崛起的时代
 ---
 title: AI革命-ChatGPT：AI智能写作终将崛起的时代
-
 description: 2023年是AI崛起的年代，因AI而生的智能写作又将给作家、自媒体行业带来什么新的变化呢？
-
 date: 2023-07-04 12:08:51
-
 cover: 
 ![](https://www.hecaiip.com/wp-content/uploads/2020/03/1-4-1024x608.jpg)
-
 categories:
   - AI、人工智能
-
 tags:
-  - ChatGPT、写作
+  - ChatGPT
+  - 写作
 ---
 
 为什么Writer Apocalypse，也就是我们说的作家启示录不会发生，但人类创造力的变革是不可避免的呢？
