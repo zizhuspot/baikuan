@@ -1,20 +1,19 @@
-# 安利7个提高生产力的AI工具
 ---
 title: 安利7个提高生产力的AI工具
-
-description: 本文将介绍7个AI工具来提升工作生活中的生产力。
-
 date: 2023-07-06 12:41:31
-
-cover: 
-![](https://files.mdnice.com/user/45886/9fd8cf79-4209-439f-9f8e-ddff990ef4b3.png)
-
 categories:
-  - AI、人工智能
-
+  - AI
+  - 人工智能
 tags:
-  - ChatGPT、求职AI、工作AI、生产力
+  - ChatGPT
+  - 求职
+  - 生活
+  - 生产力
+  - 工作
+description: 本文将介绍7个AI工具来提升工作生活中的生产力。
+cover: ![](https://files.mdnice.com/user/45886/9fd8cf79-4209-439f-9f8e-ddff990ef4b3.png)
 ---
+
 ## 引言
 
 人工智能 (AI) 迅速改变了我们的工作和生活方式。借助人工智能工具，我们可以自动执行许多日常且耗时的任务，从而腾出更多时间进行创造性和战略性思考。
