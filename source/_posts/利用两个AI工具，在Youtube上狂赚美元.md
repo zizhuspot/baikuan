@@ -1,20 +1,16 @@
-# 利用两个AI工具，在Youtube上狂赚美元
 ---
 title: 利用两个AI工具，在Youtube上狂赚美元
-
-description: 本文将介绍如何利用ChatGPT和Pictory AI 在Youtube上0成本完成赚美刀。
-
 date: 2023-07-07 13:11:29
-
-cover: 
-![](https://files.mdnice.com/user/45886/0c192098-5db5-455e-a673-94c83b47a131.png)
-
-
 categories:
-  - AI、人工智能
-
+  - AI
+  - 人工智能
 tags:
-  - ChatGPT、Pictory.ai、智能剪辑、网赚
+  - ChatGPT
+  - Pictory.ai
+  - AI剪辑
+  - 网赚
+description: 本文将介绍如何利用ChatGPT和Pictory AI 在Youtube上0成本完成赚美刀。
+cover: ![](https://files.mdnice.com/user/45886/0c192098-5db5-455e-a673-94c83b47a131.png)
 ---
 
 ![](https://files.mdnice.com/user/45886/31c36da5-b131-4d53-aff9-28648015bdc6.png)
