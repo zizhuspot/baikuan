@@ -9,7 +9,7 @@ tags:
   - Chrome
   - 教程
 description: 本文将详细指导您如何利用代码，将ChatGPT集成到您自己的APP或者网站中，提高整个程序的生产力。
-cover:![](https://files.mdnice.com/user/45886/4aea154c-acd4-4ca1-aee5-b207d5c35435.png)
+cover: ![](https://files.mdnice.com/user/45886/4aea154c-acd4-4ca1-aee5-b207d5c35435.png)
 ---
 
 ChatGPT 所生成的卓越内容质量确实让我们震惊，让我们惊叹不已。它很快就成为了不仅是我，而且还有许多其他人的首选生产力工具。
