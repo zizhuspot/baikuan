@@ -1,4 +1,3 @@
-# AI革命-ChatGPT：AI智能写作终将崛起的时代
 ---
 title: AI革命-ChatGPT AI智能写作终将崛起的时代
 date: 2023-07-04 12:08:51
