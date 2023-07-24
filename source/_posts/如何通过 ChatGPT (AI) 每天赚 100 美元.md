@@ -1,19 +1,14 @@
-# 如何通过 ChatGPT (AI) 每天赚 100 美元?
 ---
 title: 如何通过 ChatGPT (AI) 每天赚 100 美元?
-
-description: 本文将通过适合任何人的简单分步指南，来展示普通人如何利用免费的ChatGPT来赚取利润。
-
 date: 2023-07-06 14:12:44
-
-cover: 
-![](https://files.mdnice.com/user/45886/9a096d3c-d7f9-42f7-a299-f10861397736.png)
-
 categories:
-  - AI、人工智能
-
+  - AI
+  - 人工智能
 tags:
-  - ChatGPT、网赚
+  - ChatGPT
+  - 网赚
+description: 本文将通过适合任何人的简单分步指南，来展示普通人如何利用免费的ChatGPT来赚取利润。
+cover: ![](https://files.mdnice.com/user/45886/9a096d3c-d7f9-42f7-a299-f10861397736.png)
 ---
 
 ![](https://files.mdnice.com/user/45886/d1ed7bed-917c-4f66-bad8-5fbe8d9c5563.png)
