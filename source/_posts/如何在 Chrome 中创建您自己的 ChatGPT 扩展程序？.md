@@ -9,7 +9,7 @@ tags:
   - Chrome
   - 教程
 description: 本文将详细指导您如何利用代码，将ChatGPT集成到您自己的APP或者网站中，提高整个程序的生产力。
-cover: https://files.mdnice.com/user/45886/4aea154c-acd4-4ca1-aee5-b207d5c35435.png
+cover: https://s2.loli.net/2023/07/25/r4G9umXqWVafbzZ.png
 ---
 
 ChatGPT 所生成的卓越内容质量确实让我们震惊，让我们惊叹不已。它很快就成为了不仅是我，而且还有许多其他人的首选生产力工具。
@@ -22,7 +22,7 @@ ChatGPT具有无限的可能性，我不禁对将其融入各种应用程序感�
 
 我需要创建自己的 Chrome 扩展程序并将其与 ChatGPT 连接起来。我想通过鼠标右键单击创建自己的菜单来调用 ChatGPT 服务并将内容发送回我的浏览器。
 
-![](https://files.mdnice.com/user/45886/4e796b4a-8b38-4577-a86c-92bc46158ee9.png)
+![](https://s2.loli.net/2023/07/25/ZcO7jXLC2DEetT1.png)
 
 我想创建 3 个功能：重写任何页面上选定的段落（例如我的 Gmail、WhatsApp 等）；总结所选文章；根据选定的对话日志撰写回复。
 
@@ -36,7 +36,7 @@ Chrome 有一个完整的框架，您可以使用它来创建强大的扩展。�
 
 1. 创建本地项目，后台JS和内容JS
 
-![](https://files.mdnice.com/user/45886/fe21afa6-c782-40d1-b53c-8b44ab5245cd.png)
+![](https://s2.loli.net/2023/07/25/X5jOt2ybuMIDK7W.png)
 
 2. background.js用于注册鼠标右键的上下文菜单，以便我可以与其交互。（https://developer.chrome.com/docs/extensions/reference/contextMenus/）
 
@@ -46,7 +46,7 @@ Chrome 有一个完整的框架，您可以使用它来创建强大的扩展。�
 
 让我们尝试一下。在我启用该扩展的网站上，我只需选择一个段落，右键单击并转到 ChatGPT 菜单即可要求 ChatGPT 重写该段落或对其进行总结或撰写回复。结果，响应显示在我选择的部分的正下方。
 
-![](https://files.mdnice.com/user/45886/5b158281-7097-4660-b284-156377f1f1ff.png)
+![](https://s2.loli.net/2023/07/25/LmicUxzpQarG2nJ.png)
 
 **有兴趣的可以参考一下代码：**
 

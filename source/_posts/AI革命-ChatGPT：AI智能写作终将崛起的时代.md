@@ -8,12 +8,12 @@ tags:
   - ChatGPT
   - 写作
 description: 2023年是AI崛起的年代，因AI而生的智能写作又将给作家、自媒体行业带来什么新的变化呢？
-cover: https://www.hecaiip.com/wp-content/uploads/2020/03/1-4-1024x608.jpg
+cover: https://s2.loli.net/2023/07/24/4BeOcHkCfEKtQP8.png
 ---
 
 为什么Writer Apocalypse，也就是我们说的作家启示录不会发生，但人类创造力的变革是不可避免的呢？
 
-![](https://files.mdnice.com/user/45886/405c3cd5-4172-4839-83ee-5838e9eb0ccc.png)
+![](https://s2.loli.net/2023/07/24/hJnAavEOlF97RVH.png)
 
 在当今快速发展的技术领域，人工智能的出现引发了关于其对写作世界影响的激烈争论。
 
@@ -41,7 +41,7 @@ cover: https://www.hecaiip.com/wp-content/uploads/2020/03/1-4-1024x608.jpg
 
 哈罗德-罗宾斯（Harold Robbins）和大规模生产的劣质小说等都在不断提醒我们，由人类创造的没有灵魂的内容可能和人工智能生成的文本一样令人失望、乏味。我们也从来不需要人工智能来写平庸的内容，人类早已经掌握了这种艺术。
 
-![](https://files.mdnice.com/user/45886/7ba3c416-3b31-4b04-85a1-dfb4724230b3.png)
+![](https://s2.loli.net/2023/07/24/pQLkZr3nRjumNBM.png)
 
 作为一名对软件工程、人工智能和创业精神交叉领域充满热情的读者，我坚信包括 ChatGPT 在内的人工智能革命带来了令人兴奋的机遇。 它是一种可以帮助和增强作家创造力的工具，但它永远不会取代定义卓越写作的人类经验的本质。
 

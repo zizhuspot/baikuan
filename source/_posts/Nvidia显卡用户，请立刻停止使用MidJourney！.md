@@ -10,7 +10,7 @@ tags:
   - Nvdia
   - AI绘画
 description: MidJourney的出现无疑是AI绘画发展的重要里程碑，但由于用户本身就为显卡付费了，难以维持AI绘画的付费使用模式，显卡付费用户当然可以有更好的选择
-cover: https://files.mdnice.com/user/45886/2963d27d-b280-441a-abd4-0d4bc509347c.png
+cover: https://s2.loli.net/2023/07/24/J7CkxVIPdAhizXb.png
 ---
 
 近几个月来，AI在互联网上掀起了一阵风暴。来自不同背景的技术人员已经将它用于许多不同的用途。
@@ -21,8 +21,7 @@ cover: https://files.mdnice.com/user/45886/2963d27d-b280-441a-abd4-0d4bc509347c.
 
 也就是说，即使是第一次使用的用户也能得到最好的效果。这里是使用**MidJourney**创作的艺术作品在其官方网站展示页面上的展示。
 
-
-![](https://files.mdnice.com/user/45886/113b44dd-f675-414c-ac08-32cb99696294.png)
+![](https://s2.loli.net/2023/07/24/yWmdkMxn27zRFgL.png)
 
 但是有一个不可忽略的问题，**MidJourney**是需要付费的。虽然它确实提供试用版，但在此之后，您需要付费。就所提供的功能而言，价格也是公道的。但是，大多数人都不想为数字产品付费🙂或者付不起。
 
@@ -32,7 +31,7 @@ cover: https://files.mdnice.com/user/45886/2963d27d-b280-441a-abd4-0d4bc509347c.
 
 我们在stabilit.ai的朋友，其口号是：AI by the people for the people，开发了一个免费的开放式AI模型，你可以下载到本地并在你的PC上试用。
 
-![](https://files.mdnice.com/user/45886/d60d0adc-c829-41da-a0e9-cf4beb09e307.png)
+![](https://s2.loli.net/2023/07/24/ek45WIS6bwEZosy.png)
 
 **它是完全免费的**，而且没有任何限制。
 

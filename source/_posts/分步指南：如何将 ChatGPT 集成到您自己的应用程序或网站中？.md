@@ -10,10 +10,9 @@ tags:
   - 网站
   - 嵌入教程
 description: 本文将详细指导您如何利用代码，将ChatGPT集成到您自己的APP或者网站中，提高整个程序的生产力。
-cover: https://files.mdnice.com/user/45886/331c32c0-9365-409a-aecf-adb4e5742cc0.png
 ---
 
-![](https://files.mdnice.com/user/45886/946d8ff0-8f9f-4d26-b2b7-26b5b6fa03f0.png)
+![](https://s2.loli.net/2023/07/25/SGVszoLxnb6FHvu.png)
 
 ChatGPT 由 OpenAI 开发，是一种功能强大的语言模型，可以根据给定的提示生成类似人类的响应。它有潜力改善用户交互并在不同的应用程序和网站之间提供智能响应。在本文中，我们将探讨如何将 ChatGPT 集成到您自己的应用程序或网站中，并提供一些示例代码来帮助您入门。
 

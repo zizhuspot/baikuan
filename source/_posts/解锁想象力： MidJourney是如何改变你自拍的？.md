@@ -9,7 +9,7 @@ tags:
   - MidJourney
   - AI绘画
 description: MidJourney相信很多人都用过了，那么这篇文章将一步一步教你如何用MidJourney改变照片。
-cover: https://files.mdnice.com/user/45886/3577ca82-122a-41c8-962a-02892affdc46.png
+cover: https://s2.loli.net/2023/07/25/UcOo6r1ZzgHD8FR.png
 ---
 
 Midjourney是一个人工智能程序，可以根据文字描述和Discord上的提示创建文本到图像。它的最新版本还能够将你上传的任何图像改变成你想要的样子。
@@ -20,19 +20,19 @@ Midjourney是一个人工智能程序，可以根据文字描述和Discord上的
 
 选择你最想修改的照片，确保显示整个面部。此外，你必须有一个 Discord 帐户，然后点击 "上传"，如下图所示。
 
-![](https://files.mdnice.com/user/45886/83b35520-9fe7-46c1-b7b0-e6aea51f23d3.png)
+![](https://s2.loli.net/2023/07/25/BY93NP1X5upb8AM.png)
 
 ## 第2步：复制图像链接。
 
 上传图片后，以同样的方式复制图片链接，如下图所示。
 
-![](https://files.mdnice.com/user/45886/597603f0-ef08-4997-a867-0eb6fd71859f.png)
+![](https://s2.loli.net/2023/07/25/L2b79PBqTiI8RJl.png)
 
 ## 第3步：生成图像。
 
 最后一步，在方框中输入"/imagine"。然后粘贴你在第2步复制的链接，并确保删除".jpg "之后的所有文字。
 
-![](https://files.mdnice.com/user/45886/d39213f5-d323-47db-8267-ec318e6a349b.png)
+![](https://s2.loli.net/2023/07/25/zVtxlLodmM4Zp5Y.png)
 
 如果你想给你的图片添加另一种风格，请在".jpg "后面使用逗号，然后写上风格或任何其他想要的效果。例如，如果你想在自己的照片上画一幅铅笔素描，你可以这样写提示：
 
@@ -40,19 +40,19 @@ Midjourney是一个人工智能程序，可以根据文字描述和Discord上的
 
 结果就是下面的图片
 
-![](https://files.mdnice.com/user/45886/9976ab4a-274c-4cfa-bfa5-627da79e670c.png)
+![](https://s2.loli.net/2023/07/25/xMjOBzu3T2EsWeA.png)
 
-![](https://files.mdnice.com/user/45886/dce09db2-a977-4a75-bb67-140bfde97e65.png)
+![](https://s2.loli.net/2023/07/25/5OfLtJMSC78BYQc.png)
 
-![](https://files.mdnice.com/user/45886/3dfc1e7c-769a-4dd1-813b-e9de1729590d.png)
+![](https://s2.loli.net/2023/07/25/Qvnd9jLmMCrap6k.png)
 
 另一种使用Midjourney的方法是从任何地方复制图片链接，例如从Unsplash
 
-![](https://files.mdnice.com/user/45886/93d1fac6-21c6-42c4-9ffd-eade9b079e61.png)
+![](https://s2.loli.net/2023/07/25/PCxIQgutvipaoTY.png)
 
 通过与步骤3相同的方式粘贴猫咪图片的链接，你可以得到这样的结果。
 
-![](https://files.mdnice.com/user/45886/9f3636d2-5651-4b7a-97a4-56c50cd68843.png)
+![](https://s2.loli.net/2023/07/25/2cpi4h8UYSKNIu6.png)
 
 最新版本的Midjourney为探索我们的想象力提供了更大的灵活性。
 

@@ -8,10 +8,8 @@ tags:
   - ChatGPT
   - 网赚
 description: 本文将展示三种实测过的方法，来阐述如何用ChatGPT在线赚钱
-cover: https://files.mdnice.com/user/45886/9987cc48-48fc-497e-83da-19c22d463c23.png
+cover: https://s2.loli.net/2023/07/25/T5wIMZ9ViKC3Nk2.png
 ---
-
-![](https://files.mdnice.com/user/45886/1942cc98-b555-4deb-bb11-73356613b290.png)
 
 ChatGPT最近一直在被热议，部分人也在考虑如何通过ChatGPT赚钱。
 
@@ -39,17 +37,17 @@ API 使程序员能够通过其自定义应用程序（源代码）与特定平�
 
 打开 ChatGPT，并要求它创建 API：
 
-![](https://files.mdnice.com/user/45886/42401c87-f82c-488a-8ccd-8e586cb247ba.png)
+![](https://s2.loli.net/2023/07/25/2gio3rmSP4tWYB5.png)
 
 复制此代码，在 Visual Studio 的帮助下创建一个新的 .NET Core API 项目，创建一个新控制器，粘贴代码，然后如下图所示。
 
-![](https://files.mdnice.com/user/45886/b17fdb1e-c50d-4e18-8a9e-8fef0399313c.png)
+![](https://s2.loli.net/2023/07/25/ycOX68zQlnNrieJ.png)
 
-![](https://files.mdnice.com/user/45886/bd4c7535-55ab-432b-9078-8137107dae4a.png)
+![](https://s2.loli.net/2023/07/25/4MNhpgn6CUFKbtO.png)
 
 ### 🤖 哪里可以卖这个API？
 
-![](https://files.mdnice.com/user/45886/dae392f5-e3cc-4368-be2d-43c1ffb4daef.png)
+![](https://s2.loli.net/2023/07/25/C1m4LHDnKb5PSaB.png)
 
 就我而言，我在 RapidAPI（顶级 API 市场之一）上发布了我的 API。
 
@@ -57,7 +55,7 @@ API 使程序员能够通过其自定义应用程序（源代码）与特定平�
 
 🤖 让我们尝试一下 JavaScript！
 
-![](https://files.mdnice.com/user/45886/768c8318-9ce6-412f-b44b-eab50cc8f061.png)
+![](https://s2.loli.net/2023/07/25/PmYwdskTDg2rEhe.png)
 
 你可以玩ChatGPT来得到你想要的东西，但问题在于创意！哪里可以找到开发人员会购买的最佳 API 创意。
 
@@ -98,7 +96,7 @@ API 使程序员能够通过其自定义应用程序（源代码）与特定平�
 
 🤖 让我们用 ChatGPT 创建一个简单的字数计数器！
 
-![](https://files.mdnice.com/user/45886/7a8e29ac-5a61-4b79-88c5-7c493daad11d.png)
+![](https://s2.loli.net/2023/07/25/aNkUuSh9KOGBCMJ.png)
 
 ### 如何与工具网站竞争！
 
@@ -126,7 +124,7 @@ API 使程序员能够通过其自定义应用程序（源代码）与特定平�
 
 例如，看看我网站上的这些浮动共享按钮：
 
-![](https://files.mdnice.com/user/45886/0053da70-a83a-46fd-8426-ab27b8c537e7.png)
+![](https://s2.loli.net/2023/07/25/CO5MnHGkIhZdcvD.png)
 
 这是我从 codecanyon 购买的脚本。
 
@@ -134,7 +132,7 @@ API 使程序员能够通过其自定义应用程序（源代码）与特定平�
 
 🤖 可以利用 ChatGPT 做了类似的东西并将其添加到自己的工具中！
 
-![](https://files.mdnice.com/user/45886/a68988e3-eeab-4bd1-8bfe-5744df9fbfd6.png)
+![](https://s2.loli.net/2023/07/25/N5vfxICci6eSZKW.png)
 
 ## 🟥 Warning! ⚠️
 
