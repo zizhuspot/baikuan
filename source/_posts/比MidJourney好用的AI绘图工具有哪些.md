@@ -1,20 +1,18 @@
-# 比MidJourney好用的AI绘图工具有哪些?
 ---
-title: 比MidJourney好用的AI绘图工具有哪些?
-
-description: MidJourney的出现无疑是AI绘画发展的重要里程碑，随着各个工作室、公司的内卷，市面上出现越来越多的AI绘图工具，那么本文将介绍几种笔者认为比MidJourney更好用的AI绘图工具---Leonardo AI。
-
+title: 比MidJourney更加好用的AI绘图工具！！！
 date: 2023-07-05 17:29:08
-
-cover: 
-![](https://files.mdnice.com/user/45886/42d827e9-ba93-4670-9a5c-eb39871cc695.png)
-
 categories:
-  - AI、人工智能
-
+  - AI
+  - 人工智能
 tags:
-  - MidJourney、ChatGPT、AI绘画、Leonardo AI
+  - ChatGPT
+  - MidJourney
+  - AI绘画
+  - Leonardo AI
+description: MidJourney的出现无疑是AI绘画发展的重要里程碑，随着各个工作室、公司的内卷，市面上出现越来越多的AI绘图工具，那么本文将介绍一种笔者认为比MidJourney更好用的AI绘图工具---Leonardo AI。
+cover: ![](https://files.mdnice.com/user/45886/42d827e9-ba93-4670-9a5c-eb39871cc695.png)
 ---
+
 大家好。如果你点入了这篇文章，那么你可能对AI的东西感兴趣。那么，我发现什么东西比MidJourney更好呢？
 
 别担心，我会告诉你。这是一个暂时免费的人工智能。而且目前借助白名单让人们进入。所以读完这篇文章后，你可以加入他们，在那里享受一些乐趣。
