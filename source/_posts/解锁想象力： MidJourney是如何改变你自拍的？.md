@@ -36,7 +36,7 @@ Midjourney是一个人工智能程序，可以根据文字描述和Discord上的
 
 如果你想给你的图片添加另一种风格，请在".jpg "后面使用逗号，然后写上风格或任何其他想要的效果。例如，如果你想在自己的照片上画一幅铅笔素描，你可以这样写提示：
 
-“/imagine prompt:https://media.discordapp.net/attachments/1008571051392909393/1064702522062819408/photo_2023-01-16_15-05-14.jpg, pencil sketch”
+> /imagine prompt:https://media.discordapp.net/attachments/1008571051392909393/1064702522062819408/photo_2023-01-16_15-05-14.jpg, pencil sketch
 
 结果就是下面的图片
 

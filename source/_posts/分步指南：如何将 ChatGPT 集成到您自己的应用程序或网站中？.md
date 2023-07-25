@@ -52,11 +52,11 @@ response = generate_chat_response(user_input)
 print("ChatGPT:", response)
 ```
 
-请记住将“YOUR_API_KEY”替换为您从 OpenAI 收到的 API 密钥。 generate_chat_response 函数向 ChatGPT API 发送 POST 请求，并将用户提示作为输入传递。然后从 API 响应中获取生成的响应。
+请记住将 `YOUR_API_KEY` 替换为您从 OpenAI 收到的 API 密钥。`generate_chat_response` 函数向 ChatGPT API 发送 POST 请求，并将用户提示作为输入传递。然后从 API 响应中获取生成的响应。
 
 ## 第 4 步：官方库：
 
-OpenAI 提供了各种编程语言（例如 Python、JavaScript 等）的官方库，这些库简化了集成过程并提供了附加功能。以下是使用“OpenAI” Python 库的示例代码片段：
+OpenAI 提供了各种编程语言（例如 Python、JavaScript 等）的官方库，这些库简化了集成过程并提供了附加功能。以下是使用 OpenAI Python 库的示例代码片段：
 
 ```py
 import openai
@@ -80,7 +80,7 @@ response = generate_chat_response(user_input)
 print("ChatGPT:", response)
 ```
 
-再次将“YOUR_API_KEY”替换为您当前的 API 密钥。此示例使用 openai.Completion.create 方法生成响应。您可以调整 max_tokens（生成的响应中标记的最大数量）和temperature（较高的值使输出更加随机，较低的值使其更加集中和确定性）等参数来控制答案的质量。
+再次将 `YOUR_API_KEY` 替换为您当前的 API 密钥。此示例使用 `openai.Completion.create` 方法生成响应。您可以调整 `max_tokens`（生成的响应中标记的最大数量）和 temperature（较高的值使输出更加随机，较低的值使其更加集中和确定性）等参数来控制答案的质量。
 
 ## 总结
 

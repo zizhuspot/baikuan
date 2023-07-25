@@ -38,7 +38,7 @@ Chrome 有一个完整的框架，您可以使用它来创建强大的扩展。�
 
 ![](https://s2.loli.net/2023/07/25/X5jOt2ybuMIDK7W.png)
 
-2. background.js用于注册鼠标右键的上下文菜单，以便我可以与其交互。（https://developer.chrome.com/docs/extensions/reference/contextMenus/）
+2. background.js 用于注册鼠标右键的上下文菜单，以便我可以与其交互。
 
 3. content.js 用于查找页面上选定的内容，然后将其传递给 ChatGPT API。 ChatGPT 给出回复后，将其显示在相应的页面上。
 
