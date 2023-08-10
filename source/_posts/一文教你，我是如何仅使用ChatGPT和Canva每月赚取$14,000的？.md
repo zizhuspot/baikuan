@@ -12,7 +12,6 @@ tags:
 description: 本文旨在介绍如何使用ChatGPT与Canva来创作并且获得丰厚的利润。
 cover: https://s2.loli.net/2023/08/04/T2pV5XcJW74GR8m.jpg
 ---
-![](https://s2.loli.net/2023/08/04/T2pV5XcJW74GR8m.jpg)
 
 ChatGPT 席卷了世界，并改变了赚钱的方式。因此，在今天的文章中，您将学习如何在 6 个月的工作时间内每月赚取 14,000 美元。相信我，如果方法正确，这可以取代朝九晚五的生活。让我们开始吧！
 
