@@ -37,7 +37,7 @@ cover: https://s2.loli.net/2023/07/24/NhK5HPdoJY2Cc6Q.png
 
 ![](https://s2.loli.net/2023/07/24/V8a4EthMPYKeUzq.png)
 
-要使用OpenAI API，您必须生成自己的唯一API密钥。如果您还没有这样做，您可以在平台的官方网站[platform.openai.com](platform.openai.com)上轻松创建一个帐户。创建帐户后，您将立即收到 5 美元的积分，可用于探索和试验 API。
+要使用OpenAI API，您必须生成自己的唯一API密钥。如果您还没有这样做，您可以在平台的官方网站上轻松创建一个帐户。创建帐户后，您将立即收到 5 美元的积分，可用于探索和试验 API。
 
 ## 初始化Pandas AI并提出问题
 
