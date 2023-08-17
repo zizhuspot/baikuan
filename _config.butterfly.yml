@@ -35,18 +35,18 @@ code_word_wrap: true
 #   icon: link || the description || color
 social:
   fab fa-github: https://github.com/zizhuspot/baikuan || Github || '#24292e'
-  fas fa-envelope: mailto:luozhu2021@gmail.com || Email || '#4a7dbe'
-  fab fa-twitter: https://twitter.com/luozhu2021 || Twitter || '#00acee'
+  fas fa-envelope: mailto:liangbaikuan@gmail.com || Email || '#4a7dbe'
+  fab fa-twitter: https://twitter.com/Mu1sezz || Twitter || '#00acee'
 
 # Image (圖片設置)
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://cdn.jsdelivr.net/gh/youngjuning/images@main/1689511332716.png
+favicon: https://s2.loli.net/2023/08/17/YGZ23uVDAngyzlc.png
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/youngjuning/images@main/1689511332716.png
+  img: https://s2.loli.net/2023/08/17/YGZ23uVDAngyzlc.png
   effect: true
 
 # Disable all banner image
