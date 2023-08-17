@@ -232,7 +232,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: 激发思考、启迪灵感、促进创新
+    description: 欢迎来到MUSE关于人工智能及网赚的频道！
     button:
       enable: true
       icon: fab fa-github
