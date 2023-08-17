@@ -53,13 +53,13 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://cdn.jsdelivr.net/gh/youngjuning/images@main/1689604945346.png
+index_img: https://s2.loli.net/2023/08/17/pX4tdO2WREji3lv.webp
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: https://s2.loli.net/2023/07/17/leDBhzw8xEnOmS6.png
 
 # The banner image of archive page
-archive_img: https://s2.loli.net/2023/07/17/xoflNAZpqPTFKU9.png
+archive_img: https://s2.loli.net/2023/08/17/VzvUexghZEut375.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
