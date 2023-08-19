@@ -19,7 +19,7 @@ date: 2023-07-16 15:54:03
 
 如果您有任何问题或建议，请随时与我联系。您可以通过以下方式找到我：
 
-- 电子邮件：liangbaikuan@gmail.com
+- 电子邮件：liangwww.musecorner.top@gmail.com
 - 社交媒体：Twitter@Mu1sezz
 
 感谢您访问我的网站！
