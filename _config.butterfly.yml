@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: https://s2.loli.net/2023/08/17/YGZ23uVDAngyzlc.png # image
+  logo: https://s2.loli.net/2023/08/19/vGaxh7LOA4KQbiU.png # image
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -42,11 +42,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://s2.loli.net/2023/08/17/YGZ23uVDAngyzlc.png
+favicon: https://s2.loli.net/2023/08/19/vGaxh7LOA4KQbiU.png
 
 # Avatar (頭像)
 avatar:
-  img: https://s2.loli.net/2023/08/17/YGZ23uVDAngyzlc.png
+  img: https://s2.loli.net/2023/08/19/vGaxh7LOA4KQbiU.png
   effect: true
 
 # Disable all banner image
