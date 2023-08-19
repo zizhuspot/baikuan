@@ -489,7 +489,7 @@ twikoo:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo: zizhuspot/baikuan
+  repo: zizhuspot/www.musecorner.top
   repo_id: R_kgDOJ9ausw
   category_id: DIC_kwDOJ9aus84CX_wB
   theme:
@@ -833,7 +833,7 @@ note:
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
-  enable: true
+  enable: false
   exclude:
     # - xxxx
     # - xxxx
