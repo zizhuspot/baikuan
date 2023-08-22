@@ -3,7 +3,6 @@ title: 解锁想象力： MidJourney是如何改变你自拍的？
 date: 2023-07-04 14:33:06
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - MidJourney
