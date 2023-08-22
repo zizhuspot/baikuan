@@ -3,7 +3,6 @@ title: Notion AI：2023 年最佳笔记应用
 date: 2023-07-03 11:48:12
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - 写作
