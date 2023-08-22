@@ -3,7 +3,6 @@ title: Pandas AI——数据分析的未来
 date: 2023-07-06 09:41:31
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - Pandas AI
