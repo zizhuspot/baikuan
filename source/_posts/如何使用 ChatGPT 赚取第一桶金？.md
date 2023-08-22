@@ -3,7 +3,6 @@ title: 如何使用 ChatGPT 赚取第一桶金？
 date: 2023-07-07 09:12:44
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - 网赚
