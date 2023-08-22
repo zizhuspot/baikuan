@@ -3,7 +3,6 @@ title: 如何在 Chrome 中创建您自己的 ChatGPT 扩展程序？
 date: 2023-07-07 12:23:55
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - Chrome
