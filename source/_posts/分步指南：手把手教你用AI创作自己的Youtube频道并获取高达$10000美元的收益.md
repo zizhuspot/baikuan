@@ -3,7 +3,6 @@ title: 分步指南：手把手教你用AI创作自己的Youtube频道并获取�
 date: 2023-08-10 10:29:51
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - Pictory.ai 
