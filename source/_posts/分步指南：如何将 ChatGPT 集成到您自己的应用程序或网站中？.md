@@ -3,12 +3,12 @@ title: 分步指南：如何将 ChatGPT 集成到您自己的应用程序或网�
 date: 2023-07-07 12:23:55
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - APP
   - 网站
   - 嵌入教程
+  - 分步指南
 description: 本文将详细指导您如何利用代码，将ChatGPT集成到您自己的APP或者网站中，提高整个程序的生产力。
 ---
 
