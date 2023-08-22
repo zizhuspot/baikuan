@@ -3,7 +3,6 @@ title: 利用两个AI工具，在Youtube上狂赚美元
 date: 2023-07-07 13:11:29
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - Pictory.ai
