@@ -3,7 +3,6 @@ title: 比MidJourney更加好用的AI绘图工具
 date: 2023-07-05 17:29:08
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - MidJourney
