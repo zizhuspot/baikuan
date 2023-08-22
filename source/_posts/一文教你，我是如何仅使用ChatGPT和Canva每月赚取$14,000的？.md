@@ -3,7 +3,6 @@ title: 一文教你，我是如何仅使用ChatGPT和Canva每月赚取$14,000的
 date: 2023-08-04 21:29:51
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - Canva
