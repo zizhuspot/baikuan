@@ -3,7 +3,6 @@ title: Nvidia显卡用户，请立刻停止使用MidJourney！
 date: 2023-07-05 17:26:36
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - MidJourney
