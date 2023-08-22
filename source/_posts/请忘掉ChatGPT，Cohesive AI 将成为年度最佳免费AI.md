@@ -3,7 +3,6 @@ title: 请忘掉ChatGPT，Cohesive AI 将成为年度最佳免费AI
 date: 2023-08-02 21:29:51
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - 创作
