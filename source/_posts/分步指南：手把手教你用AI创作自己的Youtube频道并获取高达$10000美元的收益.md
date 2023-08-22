@@ -8,6 +8,7 @@ tags:
   - ChatGPT
   - Pictory.ai 
   - 网赚
+  - 分步指南
 description: 本文旨在介绍如何使用ChatGPT与Pictory.ai来创作并且获得丰厚的利润。
 cover: https://s2.loli.net/2023/08/10/bSalXZNhK6Dj7wM.jpg
 ---
