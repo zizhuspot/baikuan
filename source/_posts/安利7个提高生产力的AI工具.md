@@ -3,7 +3,6 @@ title: 安利7个提高生产力的AI工具
 date: 2023-07-06 12:41:31
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - 求职
