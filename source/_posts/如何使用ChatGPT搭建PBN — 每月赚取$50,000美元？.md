@@ -3,7 +3,6 @@ title: 如何使用ChatGPT搭建PBN — 每月赚取$50,000美元？
 date: 2023-07-05 13:06:51
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - 网赚
