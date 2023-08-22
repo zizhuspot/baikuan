@@ -3,7 +3,6 @@ title: 如何通过 ChatGPT (AI) 每天赚 100 美元?
 date: 2023-07-06 14:12:44
 categories:
   - AI
-  - 人工智能
 tags:
   - ChatGPT
   - 网赚
