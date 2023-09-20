@@ -1,5 +1,5 @@
 ---
-title: "Long-term high interest rates replace interest rate hikes", on the eve of the Fed's decision, the market accepted the "new logic of the central bank", and the rules of the game changed?
+title: "Long-term high interest rates replace interest rate hikes",on the eve of the Fed's decision,the market accepted the "new logic of the central bank",and the rules of the game changed?
 date: 2023-09-17 16:42:22
 categories:
   - Economy
