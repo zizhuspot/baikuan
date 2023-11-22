@@ -1,5 +1,5 @@
 ---
-title: Can the poor be better off with hope?
+title: Can the poor be better off with hope
 date: 2023-09-26 19:57:24
 categories:
   - Artical
